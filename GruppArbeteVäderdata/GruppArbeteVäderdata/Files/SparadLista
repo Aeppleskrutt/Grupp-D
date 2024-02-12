@@ -1,0 +1,188 @@
+År: 2016, Månad: 5, Medeltemperatur Ute: 25,31
+År: 2016, Månad: 6, Medeltemperatur Ute: 15,85
+År: 2016, Månad: 7, Medeltemperatur Ute: 20,24
+År: 2016, Månad: 8, Medeltemperatur Ute: 18,07
+År: 2016, Månad: 9, Medeltemperatur Ute: 16,16
+År: 2016, Månad: 10, Medeltemperatur Ute: 8,18
+År: 2016, Månad: 11, Medeltemperatur Ute: 3,31
+År: 2016, Månad: 12, Medeltemperatur Ute: 2,51
+År: 2017, Månad: 1, Medeltemperatur Ute: 3,80
+År: 2016, Månad: 5, Medeltemperatur Inne: 25,16
+År: 2016, Månad: 6, Medeltemperatur Inne: 24,70
+År: 2016, Månad: 7, Medeltemperatur Inne: 26,28
+År: 2016, Månad: 8, Medeltemperatur Inne: 25,57
+År: 2016, Månad: 9, Medeltemperatur Inne: 23,31
+År: 2016, Månad: 10, Medeltemperatur Inne: 22,42
+År: 2016, Månad: 11, Medeltemperatur Inne: 22,78
+År: 2016, Månad: 12, Medeltemperatur Inne: 21,84
+År: 2017, Månad: 1, Medeltemperatur Inne: 21,36
+År: 2016, Månad: 5, Medelfuktighet Ute: 32,40
+År: 2016, Månad: 6, Medelfuktighet Ute: 53,21
+År: 2016, Månad: 7, Medelfuktighet Ute: 52,99
+År: 2016, Månad: 8, Medelfuktighet Ute: 48,60
+År: 2016, Månad: 9, Medelfuktighet Ute: 60,43
+År: 2016, Månad: 10, Medelfuktighet Ute: 64,58
+År: 2016, Månad: 11, Medelfuktighet Ute: 83,49
+År: 2016, Månad: 12, Medelfuktighet Ute: 77,93
+År: 2017, Månad: 1, Medelfuktighet Ute: 95,00
+År: 2016, Månad: 5, Medelfuktighet Inne: 37,64
+År: 2016, Månad: 6, Medelfuktighet Inne: 28,76
+År: 2016, Månad: 7, Medelfuktighet Inne: 41,63
+År: 2016, Månad: 8, Medelfuktighet Inne: 34,60
+År: 2016, Månad: 9, Medelfuktighet Inne: 41,60
+År: 2016, Månad: 10, Medelfuktighet Inne: 27,27
+År: 2016, Månad: 11, Medelfuktighet Inne: 19,07
+År: 2016, Månad: 12, Medelfuktighet Inne: 15,82
+År: 2017, Månad: 1, Medelfuktighet Inne: 18,00
+År: 2016, Månad: 5, MedelMögelrisk Ute: -362,2745580808079
+År: 2016, Månad: 6, MedelMögelrisk Ute: -134,81432603856254
+År: 2016, Månad: 7, MedelMögelrisk Ute: -163,1951512391046
+År: 2016, Månad: 8, MedelMögelrisk Ute: -169,47619498792017
+År: 2016, Månad: 9, MedelMögelrisk Ute: -93,72922423674206
+År: 2016, Månad: 10, MedelMögelrisk Ute: -37,12600121295861
+År: 2016, Månad: 11, MedelMögelrisk Ute: 3,327827082060057
+År: 2016, Månad: 12, MedelMögelrisk Ute: 1,8146006914924457
+År: 2017, Månad: 1, MedelMögelrisk Ute: 19,57575757575757
+År: 2016, Månad: 5, MedelMögelrisk Inne: -307,4238301381161
+År: 2016, Månad: 6, MedelMögelrisk Inne: -367,74939694755676
+År: 2016, Månad: 7, MedelMögelrisk Inne: -290,07588243070643
+År: 2016, Månad: 8, MedelMögelrisk Inne: -336,25740551583243
+År: 2016, Månad: 9, MedelMögelrisk Inne: -257,10133604086406
+År: 2016, Månad: 10, MedelMögelrisk Inne: -344,32217460321056
+År: 2016, Månad: 11, MedelMögelrisk Inne: -406,5727953823688
+År: 2016, Månad: 12, MedelMögelrisk Inne: -411,1784040785662
+År: 2017, Månad: 1, MedelMögelrisk Inne: -388,3636363636364
+Algoritmen för mögel: ((luftfuktighet -78) * (Temp/15))/0,22
+Här börjar den meteorologiska hösten: 
+2016-10-04: Ute, medeltemperatur = 7,29°C
+2016-10-05: Ute, medeltemperatur = 7,71°C
+2016-10-06: Ute, medeltemperatur = 9,27°C
+2016-10-07: Ute, medeltemperatur = 7,63°C
+2016-10-08: Ute, medeltemperatur = 8,40°C
+2016-05-31: Ute, medeltemperatur = 25,31°C
+2016-06-07: Ute, medeltemperatur = 23,07°C
+2016-06-02: Ute, medeltemperatur = 22,44°C
+2016-09-07: Ute, medeltemperatur = 21,56°C
+2016-06-03: Ute, medeltemperatur = 21,22°C
+2016-07-29: Ute, medeltemperatur = 20,82°C
+2016-09-15: Ute, medeltemperatur = 20,80°C
+2016-07-30: Ute, medeltemperatur = 20,78°C
+2016-06-01: Ute, medeltemperatur = 20,68°C
+2016-07-28: Ute, medeltemperatur = 19,49°C
+2016-07-31: Ute, medeltemperatur = 19,17°C
+2016-09-10: Ute, medeltemperatur = 19,11°C
+2016-09-06: Ute, medeltemperatur = 19,02°C
+2016-08-01: Ute, medeltemperatur = 18,99°C
+2016-09-14: Ute, medeltemperatur = 18,73°C
+2016-09-09: Ute, medeltemperatur = 18,60°C
+2016-09-11: Ute, medeltemperatur = 18,20°C
+2016-09-13: Ute, medeltemperatur = 17,89°C
+2016-06-16: Ute, medeltemperatur = 17,65°C
+2016-09-12: Ute, medeltemperatur = 17,03°C
+2016-06-17: Ute, medeltemperatur = 16,66°C
+2016-09-05: Ute, medeltemperatur = 16,12°C
+2016-06-04: Ute, medeltemperatur = 16,09°C
+2016-09-26: Ute, medeltemperatur = 16,01°C
+2016-06-19: Ute, medeltemperatur = 15,95°C
+2016-08-02: Ute, medeltemperatur = 15,89°C
+2016-09-27: Ute, medeltemperatur = 15,65°C
+2016-09-08: Ute, medeltemperatur = 15,59°C
+2016-06-20: Ute, medeltemperatur = 15,06°C
+2016-09-25: Ute, medeltemperatur = 14,92°C
+2016-09-28: Ute, medeltemperatur = 14,92°C
+2016-06-08: Ute, medeltemperatur = 14,87°C
+2016-09-21: Ute, medeltemperatur = 14,65°C
+2016-06-13: Ute, medeltemperatur = 14,48°C
+2016-09-29: Ute, medeltemperatur = 14,32°C
+2016-09-24: Ute, medeltemperatur = 14,26°C
+2016-09-30: Ute, medeltemperatur = 13,99°C
+2016-09-22: Ute, medeltemperatur = 13,77°C
+2016-06-18: Ute, medeltemperatur = 13,51°C
+2016-06-05: Ute, medeltemperatur = 13,50°C
+2016-09-17: Ute, medeltemperatur = 13,49°C
+2016-06-12: Ute, medeltemperatur = 13,41°C
+2016-09-16: Ute, medeltemperatur = 13,28°C
+2016-06-09: Ute, medeltemperatur = 12,84°C
+2016-09-23: Ute, medeltemperatur = 12,67°C
+2016-06-06: Ute, medeltemperatur = 12,65°C
+2016-10-01: Ute, medeltemperatur = 12,51°C
+2016-09-20: Ute, medeltemperatur = 11,97°C
+2016-10-02: Ute, medeltemperatur = 11,72°C
+2016-06-11: Ute, medeltemperatur = 11,28°C
+2016-11-21: Ute, medeltemperatur = 10,78°C
+2016-10-28: Ute, medeltemperatur = 10,37°C
+2016-10-03: Ute, medeltemperatur = 10,25°C
+2016-11-22: Ute, medeltemperatur = 10,21°C
+2016-11-23: Ute, medeltemperatur = 9,83°C
+2016-10-19: Ute, medeltemperatur = 9,53°C
+2016-06-10: Ute, medeltemperatur = 9,51°C
+2016-11-17: Ute, medeltemperatur = 9,49°C
+2016-10-18: Ute, medeltemperatur = 9,22°C
+2016-10-27: Ute, medeltemperatur = 8,95°C
+2016-10-20: Ute, medeltemperatur = 8,86°C
+2016-10-11: Ute, medeltemperatur = 8,78°C
+2016-11-18: Ute, medeltemperatur = 8,77°C
+2016-10-09: Ute, medeltemperatur = 8,76°C
+2016-10-10: Ute, medeltemperatur = 8,39°C
+2016-12-20: Ute, medeltemperatur = 8,35°C
+2016-11-15: Ute, medeltemperatur = 8,24°C
+2016-10-31: Ute, medeltemperatur = 8,17°C
+2016-10-12: Ute, medeltemperatur = 8,17°C
+2016-12-08: Ute, medeltemperatur = 8,08°C
+2016-10-21: Ute, medeltemperatur = 7,53°C
+2016-10-24: Ute, medeltemperatur = 7,49°C
+2016-11-20: Ute, medeltemperatur = 7,33°C
+2016-11-26: Ute, medeltemperatur = 7,23°C
+2016-10-13: Ute, medeltemperatur = 7,22°C
+2016-10-29: Ute, medeltemperatur = 7,14°C
+2016-11-19: Ute, medeltemperatur = 7,08°C
+2016-12-22: Ute, medeltemperatur = 7,00°C
+2016-10-30: Ute, medeltemperatur = 6,96°C
+2016-10-14: Ute, medeltemperatur = 6,60°C
+2016-12-09: Ute, medeltemperatur = 6,59°C
+2016-12-23: Ute, medeltemperatur = 6,55°C
+2016-10-23: Ute, medeltemperatur = 6,52°C
+2016-11-16: Ute, medeltemperatur = 6,47°C
+2016-11-14: Ute, medeltemperatur = 6,30°C
+2016-12-21: Ute, medeltemperatur = 5,98°C
+2016-12-19: Ute, medeltemperatur = 5,48°C
+2016-10-22: Ute, medeltemperatur = 5,36°C
+2016-10-25: Ute, medeltemperatur = 5,15°C
+2016-10-26: Ute, medeltemperatur = 5,10°C
+2016-12-05: Ute, medeltemperatur = 5,04°C
+2016-12-18: Ute, medeltemperatur = 4,99°C
+2016-11-24: Ute, medeltemperatur = 4,45°C
+2016-12-17: Ute, medeltemperatur = 3,97°C
+2016-11-25: Ute, medeltemperatur = 3,86°C
+2017-01-10: Ute, medeltemperatur = 3,80°C
+2016-11-13: Ute, medeltemperatur = 3,76°C
+2016-12-16: Ute, medeltemperatur = 3,66°C
+2016-11-01: Ute, medeltemperatur = 3,40°C
+2016-11-30: Ute, medeltemperatur = 3,19°C
+2016-12-14: Ute, medeltemperatur = 2,52°C
+2016-11-29: Ute, medeltemperatur = 2,38°C
+2016-12-10: Ute, medeltemperatur = 2,21°C
+2016-12-07: Ute, medeltemperatur = 1,85°C
+2016-11-05: Ute, medeltemperatur = 1,62°C
+2016-11-02: Ute, medeltemperatur = 1,52°C
+2016-11-03: Ute, medeltemperatur = 1,45°C
+2016-11-27: Ute, medeltemperatur = 1,42°C
+2016-12-04: Ute, medeltemperatur = 1,14°C
+2016-12-13: Ute, medeltemperatur = 1,11°C
+2016-12-15: Ute, medeltemperatur = 0,98°C
+2016-11-10: Ute, medeltemperatur = 0,81°C
+2016-11-12: Ute, medeltemperatur = 0,59°C
+2016-12-11: Ute, medeltemperatur = 0,51°C
+2016-12-01: Ute, medeltemperatur = 0,50°C
+2016-11-04: Ute, medeltemperatur = 0,37°C
+2016-12-02: Ute, medeltemperatur = 0,31°C
+2016-11-28: Ute, medeltemperatur = 0,06°C
+2016-11-11: Ute, medeltemperatur = 0,00°C
+2016-12-06: Ute, medeltemperatur = -0,11°C
+2016-11-09: Ute, medeltemperatur = -0,19°C
+2016-11-06: Ute, medeltemperatur = -0,98°C
+2016-12-03: Ute, medeltemperatur = -1,39°C
+2016-11-08: Ute, medeltemperatur = -1,79°C
+2016-11-07: Ute, medeltemperatur = -2,00°C
+2016-12-12: Ute, medeltemperatur = -2,90°C
+Det finns inte 5 dagar i följd med under 0°C.

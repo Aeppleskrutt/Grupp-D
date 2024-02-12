@@ -1,0 +1,14 @@
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\obj\Debug\net7.0\GruppArbeteVäderdata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\obj\Debug\net7.0\GruppArbeteVäderdata.AssemblyInfoInputs.cache
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\obj\Debug\net7.0\GruppArbeteVäderdata.AssemblyInfo.cs
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\obj\Debug\net7.0\GruppArbeteVäderdata.csproj.CoreCompileInputs.cache
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\bin\Debug\net7.0\GruppArbeteVäderdata.exe
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\bin\Debug\net7.0\GruppArbeteVäderdata.deps.json
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\bin\Debug\net7.0\GruppArbeteVäderdata.runtimeconfig.json
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\bin\Debug\net7.0\GruppArbeteVäderdata.dll
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\bin\Debug\net7.0\GruppArbeteVäderdata.pdb
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\obj\Debug\net7.0\GruppArbeteVäderdata.dll
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\obj\Debug\net7.0\refint\GruppArbeteVäderdata.dll
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\obj\Debug\net7.0\GruppArbeteVäderdata.pdb
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\obj\Debug\net7.0\GruppArbeteVäderdata.genruntimeconfig.cache
+C:\Users\Benny\source\repos\Arkitektur av applikationer i .NET C#\GruppArbeteVäderdata\GruppArbeteVäderdata\obj\Debug\net7.0\ref\GruppArbeteVäderdata.dll
